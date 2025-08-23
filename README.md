@@ -47,8 +47,9 @@ Driven Java Backend Engineer with expertise in the Spring ecosystem, DSA, and bu
 
 ###  Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/codealchemistsuraj)
-- [Portfolio (if any)](URL here)
-- Email: `your.email@example.com`
+- Check out my Respositories :  https://github.com/CodeAlchemistSuraj?tab=repositories
+ - Email: `surajdas112@gmail.com`
+- Contact: +91 88605474025
 
 ---
 
