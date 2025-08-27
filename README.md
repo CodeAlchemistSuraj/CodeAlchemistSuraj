@@ -1,6 +1,6 @@
 # ​ Hi, I’m Suraj Das (CodeAlchemistSuraj)
 
-##  Software Engineer — Java Backend & Microservices (Spring Boot)
+##  Java Backend Engineer | Spring Boot & Microservices | REST APIs | SQL | Cloud & DevOps Learner | Exploring AI-Powered Applications
 
 Driven Java Backend Engineer with expertise in the Spring ecosystem, DSA, and building scalable, real-world applications.
 
