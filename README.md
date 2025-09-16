@@ -48,6 +48,7 @@ Driven Java Backend Engineer with expertise in the **Spring ecosystem, DSA, and 
 ### 📊 GitHub Stats  
 ![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAlchemistSuraj&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=CodeAlchemistSuraj&theme=radical)
+
 ---
 
 ### 🌍 Let’s Connect  
