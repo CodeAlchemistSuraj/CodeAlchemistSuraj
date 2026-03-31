@@ -1,5 +1,3 @@
-Here is your updated README.md file, enhanced with your portfolio structure, project links, and a cleaner, more professional layout that showcases all your backend projects.
-```markdown
 # 👋 Hi, I’m **Suraj Das (CodeAlchemistSuraj)**
 
 [![GitHub followers](https://img.shields.io/github/followers/CodeAlchemistSuraj?style=social)](https://github.com/CodeAlchemistSuraj)
